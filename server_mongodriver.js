@@ -9,8 +9,6 @@ const url = 'mongodb://localhost:27017/test';
 
 
 
-
-
 //========= INCREMENT =================//
 
 // MongoClient.connect(url,(err,db) => {
